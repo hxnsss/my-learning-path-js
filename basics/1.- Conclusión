@@ -1,0 +1,19 @@
+RESUMEN
+
+En este capitulo aprendi cuatro tipos de valores en JavaScript:
+números, strings, booleanos, y valores indefinidos.
+
+Tales valores se pueden crear escribiendo (true, false, null, 13, "abc").
+Podemos combinar y transformar valores con operadores.
+
+Aprendimos sobre:
+
+* Los operadores binarios para aritmética (+, -, *, /, y %).
+* Concatenación de strings (+).
+* Comparaciones (==, !=, ===, !==, <, >, <=, >=)
+* Operadores logicos (&&, ||).
+* Operadores unarios (- para negar un número, ! para negar lógicamente y typeof para saber el valor de un tipo).
+* Operador ternario (value ? trueValue : falseValue) para elejir uno de dos valores, bvasandose en un tercer valor.
+
+Esto nos da la información suficiente como para usar JavaScript como una simple
+calculadora, pero no para mucho mas. Estas son las bases para formar programas básicos.
