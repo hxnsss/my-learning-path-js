@@ -1,4 +1,4 @@
-/* Comparadores de comparacion con (==, !=, ===, !==, <, >, <=, >=) */
+/* Operadores de comparacion con (==, !=, ===, !==, <, >, <=, >=) */
 
 // Comparador mayor < y menor que >
 console.log(5 < 3);
