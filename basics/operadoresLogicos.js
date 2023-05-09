@@ -15,7 +15,7 @@ console.log(true || false);
 /* El operador logico AND solamente evalua los valores que nos dan false, si te puedes dar cuenta es lo
 contrario al caso del operador OR que solo devuelve true si hay un solo valor que sea true.
 Pero en caso de que todos los valores de nuestra condicion AND sean true, sera cuando nos arrojara como resultado
-un valor true al toda la condicion cumplirse definitivamente. Ejemplos.... */
+un valor true al toda la condicion cumplirse definitivamente. Ejemplos... */
 
 console.log(true || true);
 // true
