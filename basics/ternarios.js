@@ -9,6 +9,7 @@ console.log(5 > 3 ? true : false);
 
 /* 
 Esta misma condicion que tenemos aqui, se leeria de la siguiente manera...
+
 Si x es mayor que y imprimira true
 Si x es menor que y primira false
 
